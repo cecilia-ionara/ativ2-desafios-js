@@ -1,0 +1,14 @@
+body {
+    font: 14pt Arial;
+    background-color: #fff275;
+}
+
+button {
+    font-size: 16pt;
+    background-color: #f49d37;
+    padding: 20px;
+}
+
+#resultado {
+    font-size: 20pt;
+}

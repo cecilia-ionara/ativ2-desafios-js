@@ -1,0 +1,14 @@
+body {
+    font: 16pt Arial;
+    background-color: #fff275;
+}
+
+button {
+    font-size: 16pt;
+    background-color: #f49d37;
+    padding: 20px;
+}
+
+#k, #f {
+    line-height: 2;
+}

@@ -1,0 +1,30 @@
+body {
+    font: 14pt Arial;
+    background-color: #fff275;
+}
+
+button {
+    font-size: 16pt;
+    background-color: #f49d37;
+    padding: 20px;
+}
+
+#notas,
+#msgmedia {
+    font-size: 20pt;
+    line-height: 2;
+}
+
+#reprovado {
+    background-color: #f7717d;
+    color: #780000;
+}
+
+#aprovado {
+    background-color: #9ef01a;
+    color: #004b23;
+}
+
+#recuperacao {
+    color: #d84a05;
+}

@@ -1,0 +1,21 @@
+body {
+    font: 18pt Arial;
+    background-color: #fff275;
+}
+
+button {
+    font-size: 16pt;
+    background-color: #f49d37;
+    padding: 20px;
+}
+
+#equacao_atual,
+#calculo,
+#valor {
+    font-size: 18pt;
+    line-height: 1.6;
+}
+
+#destaque {
+    background-color: #ff7733;
+}

@@ -1,0 +1,24 @@
+body {
+    font: 12pt Arial;
+    background-color: #fff275;
+}
+
+button {
+    font-size: 16pt;
+    background-color: #f49d37;
+    padding: 20px;
+}
+
+#resultado {
+    font-size: 20pt;
+}
+
+#naobissexto {
+    background-color: #f7717d;
+    color: #780000;
+}
+
+#bissexto {
+    background-color: #9ef01a;
+    color: #004b23;
+}
